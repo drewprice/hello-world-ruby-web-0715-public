@@ -51,7 +51,7 @@ Confirm everything is working by running the `learn` command.
 
 ### Step 5
 
-Add, commit, and push your code to GitHub. Open a pull request and this lab is done, but your adventure in Ruby has only just begun!
+Add, Commit and Push your code to GitHub and open a pull request and this lab is done, but your adventure in Ruby has only just begun!
 
 ### Hello World History
 
